@@ -2,7 +2,7 @@
 
 To add the [simple_bio_box] shortcode to every post on your WordPress website, you can add the shortcode to your single post template file.
 
-![WordPress Simple Bio Box](https://raw.githubusercontent.com/silkyland/wordpress-simple-bio-box/master/ss.png)
+![WordPress Simple Bio Box](https://github.com/silkyland/wordpress-simple-bio-box/blob/main/ss.png)
 
 ## Adding the [simple_bio_box] shortcode to every post on WordPress
 

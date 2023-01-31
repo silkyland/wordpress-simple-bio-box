@@ -1,0 +1,16 @@
+.simple-bio-box {
+  display: flex;
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.simple-bio-box-left {
+  width: 30%;
+  padding-right: 20px;
+}
+
+.simple-bio-box-right {
+  width: 70%;
+}
+
